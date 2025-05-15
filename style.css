@@ -16,8 +16,8 @@ body {
 }
 
 :root {
-  --accent: #0d97a9;   /* turquoise */
-  --accent-light: #c4eef4;
+  --accent: #0077b6;   /* Deeper ocean blue */
+  --accent-light: #caf0f8;  /* Soft light blue */
 }
 
 /* --- hero section --- */
